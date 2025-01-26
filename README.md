@@ -1,0 +1,1 @@
+This repository demonstrates a common error in bash scripting: failure to handle errors from external commands such as `cat`. The `bug.sh` file shows the erroneous script, while `bugSolution.sh` provides a corrected version that handles potential errors effectively and provides informative error messages.
